@@ -1,4 +1,3 @@
-
-#Git_course
+# Git_course
 course for learning git and github😙😋
-##Project_notes
+## Project_notes
